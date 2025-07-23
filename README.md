@@ -1,3 +1,14 @@
+
+# S-ERV
+Personal Server Configuration Built On S-OS.
+
+---
+
+> Old Readme
+
+---
+
+
 # image-template
 
 # Purpose
